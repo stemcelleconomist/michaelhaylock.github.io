@@ -1,7 +1,7 @@
 # main links links
 main:
   - title: "CV"
-    url: /cv/
+    url: /assets/files/Roth_Jonathan_CV.pdf
 
   - title: "Papers"
     url: /papers/
