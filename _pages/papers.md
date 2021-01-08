@@ -10,6 +10,16 @@ permalink: /papers/
 # <center> Working Papers </center>
 - - -
 
+**When Is Parallel Trends Sensitive to Functional Form?** (with Pedro Sant'Anna). 2021.<br/>
+<small>[ <a href="#/" onclick="visib('ptinvariance')">Abstract</a> | [Draft][pt-arxiv] ] </small>
+
+<div id="ptinvariance" style="display: none; text-align: justify; line-height: 1.2" ><small>
+This paper assesses when the validity of difference-in-differences and related estimators is dependent on functional form. We provide a novel characterization: the parallel trends assumption holds under all monotonic transformations of the outcome if and only if a stronger "parallel trends"-type assumption holds on the entire distribution of potential outcomes. This assumption necessarily holds when treatment is (as if) randomly assigned, but will often be implausible in settings where randomization fails. We show further that the average treatment effect on the treated (ATT) is identified regardless of functional form if and only if the entire distribution of untreated outcomes is identified for the treated group. It is thus impossible to construct an estimator that is consistent (or unbiased) for the ATT regardless of functional form unless one imposes assumptions that identify the entire counterfactual distribution of untreated potential outcomes. Our results suggest that researchers who wish to point-identify the ATT should justify one of the following: (i) why treatment is randomly assigned, (ii) why the chosen functional form is correct at the exclusion of others, or (iii) a method for inferring the entire counterfactual distribution of untreated potential outcomes.
+</small><br><br/></div>
+
+[pt-arxiv]:{{ site.baseurl }}{% link assets/files/2010.04814.pdf %}
+
+
 **Why Do Sectoral Employment Programs Work? Evidence from WorkAdvance** (with Lawrence F. Katz, Richard Hendra, and Kelsey Schaberg). 2020.<br/>
 <small>[ <a href="#/" onclick="visib('workadvance')">Abstract</a> | [Draft][workadvance-draft] ] </small>
 
@@ -18,16 +28,6 @@ This paper examines the evidence from randomized evaluations of sector-focused t
 </small><br><br/></div>
 
 [workadvance-draft]:{{ site.baseurl }}{% link assets/files/workadvance-nber-wp.pdf %}
-
-
-**When Is Parallel Trends Sensitive to Functional Form?** (with Pedro Sant'Anna). 2020.<br/>
-<small>[ <a href="#/" onclick="visib('ptinvariance')">Abstract</a> | [Draft][pt-arxiv] ] </small>
-
-<div id="ptinvariance" style="display: none; text-align: justify; line-height: 1.2" ><small>
-This paper assesses when the validity of difference-in-differences and related estimators is dependent on functional form. We provide a novel characterization: the parallel trends assumption holds under all monotonic transformations of the outcome if and only if a stronger "parallel trends"-type assumption holds on the entire distribution of potential outcomes. This assumption necessarily holds when treatment is (as if) randomly assigned, but will often be implausible in settings where randomization fails. We show further that the average treatment effect on the treated (ATT) is identified regardless of functional form if and only if the entire distribution of untreated outcomes is identified for the treated group. It is thus impossible to construct an estimator that is consistent (or unbiased) for the ATT regardless of functional form unless one imposes assumptions that identify the entire counterfactual distribution of untreated potential outcomes. Our results suggest that researchers who wish to point-identify the ATT should justify one of the following: (i) why treatment is randomly assigned, (ii) why the chosen functional form is correct at the exclusion of others, or (iii) a method for inferring the entire counterfactual distribution of untreated potential outcomes.
-</small><br><br/></div>
-
-[pt-arxiv]: https://arxiv.org/pdf/2010.04814.pdf
 
 
 
