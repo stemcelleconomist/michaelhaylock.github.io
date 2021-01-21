@@ -105,6 +105,19 @@ We evaluate the folk wisdom that algorithmic decision rules trained on data prod
 [biasinbiasout-draft]:https://arxiv.org/pdf/1909.08518.pdf
 
 
+# <center> Comments </center>
+- - -
+**Comments and Revised Findings for "Procedural justice training reduces police use of force and complaints against officers"** (with Pedro Sant'Anna, George Wood, Andrew Papachristos, and Tom Tyler). 2020.
+<br/>
+<small>[ <a href="#/" onclick="visib('woodetal')">Abstract</a> | [Initial Letter][woodetal-letter] | [Reanalysis][woodetal-reanalysis] ] </small>
+
+<div id="woodetal" style="display: none; text-align: justify; line-height: 1.2" ><small>
+Pedro Sant'Anna and I discovered a statistical error in a recent PNAS paper by Wood, Papachristos, and Tyler that led to spuriously large estimates of the effect of a procedural justice training for police officers. Below are links to our initial letter to the authors detailing the problem and to a re-analysis co-authored with the original authors that corrects the statistical error.
+</small><br><br/></div>
+
+[woodetal-letter]:{{ site.baseurl }}{% link assets/files/Wood-et-al-comment-20200714.pdf %}
+[woodetal-reanalysis]:{{ site.baseurl }}{% link assets/files/wood-et-al-revisited.pdf %}
+
 
 [//]: This java script is the button to show abstract
 <script>
