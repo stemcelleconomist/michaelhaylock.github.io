@@ -10,6 +10,21 @@ permalink: /papers/
 # <center> Working Papers </center>
 - - -
 
+**Pre-test with Caution: Event-study Estimates After Testing for Parallel Trends**. 2021.
+<br/>
+<small>[ <a href="#/" onclick="visib('pretest')">Abstract</a> | [Draft][pretest-draft] | [Longer Version (old)][pretest-draft-longer] | [R package][pretrends-package] | [Shiny app][pretrends-shiny] ] </small>
+
+<div id="pretest" style="display: none; text-align: justify; line-height: 1.2" ><small>
+Tests for pre-existing trends ("pre-trends") are a common way of assessing the plausibility of the parallel trends assumption in difference-in-differences and related research designs. This paper highlights some important limitations of pre-trends testing. From a theoretical perspective, I analyze the distribution of conventional estimates and confidence intervals conditional on surviving a pre-test for pre-trends. I show that in non-pathological cases, the bias of conventional estimates conditional on passing a pre-test can be worse than the unconditional bias. Thus, pre-tests meant to mitigate bias and coverage issues in published work can in fact exacerbate them. I empirically investigate the practical relevance of these concerns in simulations based on a systematic review of recent papers in leading economics journals. I find that conventional pre-tests are often underpowered against plausible violations of parallel trends that produce bias of a similar magnitude as the estimated treatment effect. Distortions from pre-testing can also be substantial. Finally, I discuss alternative approaches that can improve upon the standard practice of relying on pre-trends testing.
+</small><br><br/></div>
+
+[pretest-draft]:{{ site.baseurl }}{% link assets/files/roth_pretrends_testing.pdf %}
+[pretest-draft-longer]:{{ site.baseurl }}{% link assets/files/roth_pretrends_testing_longer_version.pdf %}
+[pretrends-package]:https://github.com/jonathandroth/pretrends#pretrends
+[pretrends-shiny]:https://github.com/jonathandroth/PretrendsPower#pretrendspower
+
+
+
 **Efficient Estimation for Staggered Rollout Designs** (with Pedro Sant'Anna). 2021.<br/>
 <small>[ <a href="#/" onclick="visib('staggeredefficient')">Abstract</a> | [Draft][staggeredefficient-arxiv] | [R package (beta version)][staggeredefficient-package] ]</small>
 
@@ -62,16 +77,6 @@ Social scientists are often interested in estimating causal effects in settings 
 
 [design-based-arxiv]: https://arxiv.org/pdf/2008.00602v2.pdf
 
-
-**Pre-test with Caution: Event-study Estimates After Testing for Parallel Trends**. 2020.
-<br/>
-<small>[ <a href="#/" onclick="visib('pretest')">Abstract</a> | [Draft][pretest-draft] ] </small>
-
-<div id="pretest" style="display: none; text-align: justify; line-height: 1.2" ><small>
-Tests for pre-existing trends ("pre-trends") are a common way of assessing the plausibility of the parallel trends assumption in difference-in-differences and related research designs. This paper highlights some important limitations of pre-trends testing. From a theoretical perspective, I analyze the distribution of conventional estimates and confidence intervals conditional on surviving a pre-test for pre-trends. I show that in non-pathological cases, the bias of conventional estimates conditional on passing a pre-test can be worse than the unconditional bias. Thus, pre-tests meant to mitigate bias and coverage issues in published work can in fact exacerbate them. I empirically investigate the practical relevance of these concerns in simulations based on a systematic review of recent papers in leading economics journals. I find that conventional pre-tests are often underpowered against plausible violations of parallel trends that produce bias of a similar magnitude as the estimated treatment effect. Distortions from pre-testing can also be substantial. Finally, I discuss alternative approaches that can improve upon the standard practice of relying on pre-trends testing.
-</small><br><br/></div>
-
-[pretest-draft]:{{ site.baseurl }}{% link assets/files/roth_pretrends_testing.pdf %}
 
 
 
