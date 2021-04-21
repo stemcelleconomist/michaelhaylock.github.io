@@ -12,7 +12,7 @@ permalink: /papers/
 
 **Pre-test with Caution: Event-study Estimates After Testing for Parallel Trends**. 2021.
 <br/>
-<small>[ <a href="#/" onclick="visib('pretest')">Abstract</a> | [Draft][pretest-draft] | [Longer Version (old)][pretest-draft-longer] | [R package][pretrends-package] | [Shiny app][pretrends-shiny] ] </small>
+<small>[ <a href="#/" onclick="visib('pretest')">Abstract</a> | [Draft][pretest-draft] | [R package][pretrends-package] | [Shiny app][pretrends-shiny] | [Longer Version (old)][pretest-draft-longer]] </small>
 
 <div id="pretest" style="display: none; text-align: justify; line-height: 1.2" ><small>
 Tests for pre-existing trends ("pre-trends") are a common way of assessing the plausibility of the parallel trends assumption in difference-in-differences and related research designs. This paper highlights some important limitations of pre-trends testing. From a theoretical perspective, I analyze the distribution of conventional estimates and confidence intervals conditional on surviving a pre-test for pre-trends. I show that in non-pathological cases, the bias of conventional estimates conditional on passing a pre-test can be worse than the unconditional bias. Thus, pre-tests meant to mitigate bias and coverage issues in published work can in fact exacerbate them. I empirically investigate the practical relevance of these concerns in simulations based on a systematic review of recent papers in leading economics journals. I find that conventional pre-tests are often underpowered against plausible violations of parallel trends that produce bias of a similar magnitude as the estimated treatment effect. Distortions from pre-testing can also be substantial. Finally, I discuss alternative approaches that can improve upon the standard practice of relying on pre-trends testing.
@@ -26,7 +26,7 @@ Tests for pre-existing trends ("pre-trends") are a common way of assessing the p
 
 
 **Efficient Estimation for Staggered Rollout Designs** (with Pedro Sant'Anna). 2021.<br/>
-<small>[ <a href="#/" onclick="visib('staggeredefficient')">Abstract</a> | [Draft][staggeredefficient-arxiv] | [R package (beta version)][staggeredefficient-package] ]</small>
+<small>[ <a href="#/" onclick="visib('staggeredefficient')">Abstract</a> | [Draft][staggeredefficient-arxiv] | [R package][staggeredefficient-package] | [Stata package][staggeredefficient-stata-package] ]</small>
 
 <div id="staggeredefficient" style="display: none; text-align: justify; line-height: 1.2" ><small>
 Researchers are often interested in the causal effect of treatments that are rolled out to different units at different points in time. This paper studies how to efficiently estimate a variety of causal parameters in such staggered rollout designs when treatment timing is (as-if) randomly assigned. We solve for the most efficient estimator in a class of estimators that nests two-way fixed effects models as well as several popular generalized difference-in-differences methods. The efficient estimator is not feasible in practice because it requires knowledge of the optimal weights to be placed on pre-treatment outcomes. However, the optimal weights can be estimated from the data, and in large datasets the plug-in estimator that uses the estimated weights has similar properties to the "oracle" efficient estimator. We illustrate the performance of the plug-in efficient estimator in simulations and in an application to Wood et al. (2020a)'s study of the staggered rollout of a procedural justice training program for police officers. We find that confidence intervals based on the plug-in efficient estimator have good coverage and can be as much as five times shorter than confidence intervals based on existing methods. As an empirical contribution of independent interest, our application provides the most precise estimates to date on the effectiveness of procedural justice training programs for police officers.
@@ -34,6 +34,7 @@ Researchers are often interested in the causal effect of treatments that are rol
 
 [staggeredefficient-arxiv]: https://arxiv.org/pdf/2102.01291.pdf
 [staggeredefficient-package]: https://github.com/jonathandroth/staggered
+[staggeredefficient-stata-package]: https://github.com/jonathandroth/staggered_stata
 
 **When Is Parallel Trends Sensitive to Functional Form?** (with Pedro Sant'Anna). 2021.<br/>
 <small>[ <a href="#/" onclick="visib('ptinvariance')">Abstract</a> | [Draft][pt-arxiv] ] </small>
