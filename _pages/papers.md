@@ -40,7 +40,9 @@ Researchers are often interested in the causal effect of treatments that are rol
 [staggeredefficient-package]: https://github.com/jonathandroth/staggered
 [staggeredefficient-stata-package]: https://github.com/jonathandroth/staggered_stata
 
-**When Is Parallel Trends Sensitive to Functional Form?** (with Pedro Sant'Anna). 2021.<br/>
+**When Is Parallel Trends Sensitive to Functional Form?** (with Pedro Sant'Anna). 2021.
+*Revision requested, Econometrica*
+<br/>
 <small>[ <a href="#/" onclick="visib('ptinvariance')">Abstract</a> | [Draft][pt-arxiv] ] </small>
 
 <div id="ptinvariance" style="display: none; text-align: justify; line-height: 1.2" ><small>
