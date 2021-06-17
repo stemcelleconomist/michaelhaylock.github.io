@@ -88,8 +88,8 @@ author:
   location         : 
   employer         :
   pubmed           : 
-  googlescholar    : 
-  email            : "Jonathan.Roth@microsoft.com"
+  googlescholar    : https://scholar.google.com/citations?user=q34WXkMAAAAJ&hl=en
+  email            : "jonathan_roth@brown.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
