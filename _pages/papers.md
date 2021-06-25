@@ -52,7 +52,8 @@ This paper assesses when the validity of difference-in-differences and related e
 [pt-arxiv]:{{ site.baseurl }}{% link assets/files/2010.04814.pdf %}
 
 
-**Why Do Sectoral Employment Programs Work? Evidence from WorkAdvance** (with Lawrence F. Katz, Richard Hendra, and Kelsey Schaberg). 2020.<br/>
+**Why Do Sectoral Employment Programs Work? Evidence from WorkAdvance** (with Lawrence F. Katz, Richard Hendra, and Kelsey Schaberg). 2020. *Revision requested, Journal of Labor Economics*
+<br/>
 <small>[ <a href="#/" onclick="visib('workadvance')">Abstract</a> | [Draft][workadvance-draft] ] </small>
 
 <div id="workadvance" style="display: none; text-align: justify; line-height: 1.2" ><small>
