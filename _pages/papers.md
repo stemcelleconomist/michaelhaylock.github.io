@@ -14,6 +14,19 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 # <center> Working Papers </center>
 - - -
 
+**An Honest Approach to Parallel Trends** (with Ashesh Rambachan). 2021.<br/>
+<small>[ <a href="#/" onclick="visib('hpt')">Abstract</a> | [Draft][1] | [JMP Version (old)][3] | [R package][hpt-package] ] </small>
+
+<div id="hpt" style="display: none; text-align: justify; line-height: 1.2" ><small>
+This paper proposes tools for robust inference for difference-in-differences and event-study designs. Instead of requiring that the parallel trends assumption holds exactly, we impose that pre-treatment violations of parallel trends (''pre-trends'') are informative about the possible post-treatment violations of parallel trends. Such restrictions allow us to formalize the intuition behind the common practice of testing for pre-existing trends while avoiding issues related to pre-testing. The causal effect of interest is partially identified under such restrictions. We introduce two approaches that guarantee uniformly valid (''honest'') inference under the imposed restrictions, and we derive novel results showing that they have good power properties in our context. We recommend that researchers conduct sensitivity analyses to show what conclusions can be drawn under various restrictions on the possible differences in trends.
+</small><br><br/></div>
+
+[1]: {{ site.baseurl }}{% link assets/files/HonestParallelTrends_Main.pdf %}
+[2]: {{ site.baseurl }}{% link assets/files/HonestParallelTrends_Supp.pdf %}
+[3]: {{ site.baseurl }}{% link assets/files/roth_jmp_honestparalleltrends_main_jmp_version.pdf %}
+[hpt-package]: https://github.com/asheshrambachan/HonestDiD
+
+
 **Pre-test with Caution: Event-study Estimates After Testing for Parallel Trends**. 2021. *Conditionally accepted, American Economic Review: Insights*
 <br/>
 <small>[ <a href="#/" onclick="visib('pretest')">Abstract</a> | [Draft][pretest-draft] | [R package][pretrends-package] | [Shiny app][pretrends-shiny] | [Longer Version (old)][pretest-draft-longer]] </small>
@@ -63,18 +76,6 @@ This paper examines the evidence from randomized evaluations of sector-focused t
 [workadvance-draft]:{{ site.baseurl }}{% link assets/files/workadvance-nber-wp.pdf %}
 
 
-
-**An Honest Approach to Parallel Trends** (with Ashesh Rambachan). 2020.<br/>
-<small>[ <a href="#/" onclick="visib('hpt')">Abstract</a> | [Draft][1] | [JMP Version (old)][3] | [R package][hpt-package] ] </small>
-
-<div id="hpt" style="display: none; text-align: justify; line-height: 1.2" ><small>
-This paper proposes tools for robust inference for difference-in-differences and event-study designs. Instead of requiring that the parallel trends assumption holds exactly, we impose that pre-treatment violations of parallel trends (''pre-trends'') are informative about the possible post-treatment violations of parallel trends. Such restrictions allow us to formalize the intuition behind the common practice of testing for pre-existing trends while avoiding issues related to pre-testing. The causal effect of interest is partially identified under such restrictions. We introduce two approaches that guarantee uniformly valid (''honest'') inference under the imposed restrictions, and we derive novel results showing that they have good power properties in our context. We recommend that researchers conduct sensitivity analyses to show what conclusions can be drawn under various restrictions on the possible differences in trends.
-</small><br><br/></div>
-
-[1]: {{ site.baseurl }}{% link assets/files/HonestParallelTrends_Main.pdf %}
-[2]: {{ site.baseurl }}{% link assets/files/HonestParallelTrends_Supp.pdf %}
-[3]: {{ site.baseurl }}{% link assets/files/roth_jmp_honestparalleltrends_main_jmp_version.pdf %}
-[hpt-package]: https://github.com/asheshrambachan/HonestDiD
 
 **Design-Based Uncertainty for Quasi-Experiments** (with Ashesh Rambachan). 2020.<br/>
 <small>[ <a href="#/" onclick="visib('design-based')">Abstract</a> | [Draft][design-based-arxiv] ] </small>
