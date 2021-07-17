@@ -14,7 +14,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 # <center> Working Papers </center>
 - - -
 
-**Pre-test with Caution: Event-study Estimates After Testing for Parallel Trends**. 2021.
+**Pre-test with Caution: Event-study Estimates After Testing for Parallel Trends**. 2021. *Conditionally accepted, American Economic Review: Insights*
 <br/>
 <small>[ <a href="#/" onclick="visib('pretest')">Abstract</a> | [Draft][pretest-draft] | [R package][pretrends-package] | [Shiny app][pretrends-shiny] | [Longer Version (old)][pretest-draft-longer]] </small>
 
