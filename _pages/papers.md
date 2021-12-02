@@ -14,9 +14,9 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 # <center> Working Papers </center>
 - - -
 
-**An Outcome Test of Discrimination for Ranked Lists**. 2021.
+**An Outcome Test of Discrimination for Ranked Lists** (with Guillaume Saint-Jacques and YinYin Yu). 2021.
 <br/>
-<small>[ <a href="#/" onclick="visib('outcometest')">Abstract</a> | [Draft][outcometest-draft] </small>
+<small>[ <a href="#/" onclick="visib('outcometest')">Abstract</a> | [Draft][outcometest-draft] ] </small>
 
 <div id="outcometest" style="display: none; text-align: justify; line-height: 1.2" ><small>
 This paper extends Becker (1957)'s outcome test of discrimination to settings where a (human or algorithmic) decision-maker produces a ranked list of candidates. Ranked lists are particularly relevant in the context of online platforms that produce search results or feeds, and also arise when human decisionmakers express ordinal preferences over a list of candidates. We show that non-discrimination implies a system of moment inequalities, which intuitively impose that one cannot permute the position of a lower-ranked candidate from one group with a higher-ranked candidate from a second group and systematically improve the objective. Moreover, we show that that these moment inequalities are the \textit{only} testable implications of non-discrimination when the auditor observes only outcomes and group membership by rank. We show how to statistically test the implied inequalities, and validate our approach in an application using data from LinkedIn.
