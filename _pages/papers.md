@@ -117,7 +117,7 @@ This paper discusses two important limitations of the common practice of testing
 </small><br><br/></div>
 
 [pretest-draft]:{{ site.baseurl }}{% link assets/files/roth_pretrends_testing.pdf %}
-[pretest-appendix]:{{ site.baseurl }}{% link assets/files/roth_pretrends_testing.pdf %}
+[pretest-appendix]:{{ site.baseurl }}{% link assets/files/roth_pretrends_testing_appendix.pdf %}
 [pretest-draft-longer]:{{ site.baseurl }}{% link assets/files/roth_pretrends_testing_longer_version.pdf %}
 [pretrends-package]:https://github.com/jonathandroth/pretrends#pretrends
 [pretrends-shiny]:https://github.com/jonathandroth/PretrendsPower#pretrendspower
