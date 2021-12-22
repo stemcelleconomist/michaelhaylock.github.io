@@ -14,6 +14,23 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 # <center> Working Papers </center>
 - - -
 
+
+**Inference for Linear Conditional Moment Inequalities** (with Isaiah Andrews and Ariel Pakes). 2021.
+*Revision requested, Review of Economic Studies*
+<br/>
+<small>[ <a href="#/" onclick="visib('arp')">Abstract</a> | [Draft][arp-draft] |  [Previous version (draft) ][arp-draft-v1] | [Previous version supplement][arp-supp-v1] | [Matlab package][arp-code]    ] </small>
+
+<div id="arp" style="display: none; text-align: justify; line-height: 1.2" ><small>
+We show that moment inequalities in a wide variety of economic applications have a particular linear conditional structure. We use this structure to construct uniformly valid confidence sets that remain computationally tractable even in settings with nuisance parameters. We first introduce least favorable critical values which deliver non-conservative tests if all moments are binding. Next, we introduce a novel conditional inference approach which ensures a strong form of insensitivity to slack moments. Our recommended approach is a hybrid technique which combines desirable aspects of the least favorable and conditional methods. The hybrid approach performs well in simulations calibrated to Wollmann (2018), with favorable power and computational time comparisons relative to existing alternatives.
+</small><br><br/></div>
+
+[arp-draft]:{{ site.baseurl }}{% link assets/files/arp-draft.pdf %}
+[arp-draft-v1]:{{ site.baseurl }}{% link assets/files/arp-draft-v1.pdf %}
+[arp-supp-v1]:{{ site.baseurl }}{% link assets/files/arp-supp-v1.pdf %}
+[arp-code]: https://github.com/jonathandroth/LinearMomentInequalities
+
+
+
 **An Outcome Test of Discrimination for Ranked Lists** (with Guillaume Saint-Jacques and YinYin Yu). 2021.
 <br/>
 <small>[ <a href="#/" onclick="visib('outcometest')">Abstract</a> | [Draft][outcometest-draft] ] </small>
@@ -75,21 +92,6 @@ Social scientists are often interested in estimating causal effects in settings 
 </small><br><br/></div>
 
 [design-based-arxiv]: https://arxiv.org/pdf/2008.00602v2.pdf
-
-
-
-
-**Inference for Linear Conditional Moment Inequalities** (with Isaiah Andrews and Ariel Pakes). 2019.
-*Revision requested, Review of Economic Studies*
-<br/>
-<small>[ <a href="#/" onclick="visib('arp')">Abstract</a> | [Draft][arp-draft] | [Supplement][arp-supp] ] </small>
-
-<div id="arp" style="display: none; text-align: justify; line-height: 1.2" ><small>
-We consider inference based on linear conditional moment inequalities, which arise in a wide variety of economic applications, including many structural models.  We show that linear conditional structure greatly simplifies confidence set construction, allowing for computationally tractable projection inference in settings with nuisance parameters.  Next, we derive least favorable critical values that avoid conservativeness due to projection.  Finally, we introduce a conditional inference approach which ensures a strong form of insensitivity to slack moments, as well as a hybrid technique which combines the least favorable and conditional methods.  Our conditional and hybrid approaches are new even in settings without nuisance parameters.  We find good performance in simulations based on Wollmann (2018), especially for the hybrid approach.
-</small><br><br/></div>
-
-[arp-draft]:{{ site.baseurl }}{% link assets/files/arp-draft.pdf %}
-[arp-supp]:{{ site.baseurl }}{% link assets/files/arp-supp.pdf %}
 
 
 
