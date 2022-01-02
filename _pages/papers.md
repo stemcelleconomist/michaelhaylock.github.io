@@ -45,7 +45,9 @@ This paper extends Becker (1957)'s outcome test of discrimination to settings wh
 
 
 
-**An Honest Approach to Parallel Trends** (with Ashesh Rambachan). 2021.<br/>
+**An Honest Approach to Parallel Trends** (with Ashesh Rambachan). 2021.
+*Revision requested, Review of Economic Studies*
+<br/>
 <small>[ <a href="#/" onclick="visib('hpt')">Abstract</a> | [Draft][1] | [JMP Version (old)][3] | [R package][hpt-package] ] </small>
 
 <div id="hpt" style="display: none; text-align: justify; line-height: 1.2" ><small>
