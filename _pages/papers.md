@@ -14,6 +14,20 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 # <center> Working Papers </center>
 - - -
 
+
+**Efficient Estimation for Staggered Rollout Designs** (with Pedro Sant'Anna). 2022.<br/>
+<small>[ <a href="#/" onclick="visib('staggeredefficient')">Abstract</a> | [Draft][staggeredefficient-arxiv] | [R package][staggeredefficient-package] | [Stata package][staggeredefficient-stata-package] ]</small>
+
+<div id="staggeredefficient" style="display: none; text-align: justify; line-height: 1.2" ><small>
+This paper studies efficient estimation of causal effects when treatment is (quasi-) randomly rolled out to units at different points in time. We solve for the most efficient estimator in a class of estimators that nests two-way fixed effects models and other popular generalized difference-in-differences methods. A feasible plug-in version of the efficient estimator is asymptotically unbiased with efficiency (weakly) dominating that of existing approaches. We provide both t-based and permutation-test based methods for inference. We illustrate the performance of the plug-in efficient estimator in simulations and in an application to Wood et al (2020)'s study of the staggered rollout of a procedural justice training program for police officers. We find that confidence intervals based on the plug-in efficient estimator have good coverage and can be as much as eight times shorter than confidence intervals based on existing state-of-the-art methods. As an empirical contribution of independent interest, our application provides the most precise estimates to date on the effectiveness of procedural justice training programs for police officers.
+</small><br><br/></div>
+
+[staggeredefficient-arxiv]: https://arxiv.org/pdf/2102.01291.pdf
+[staggeredefficient-package]: https://github.com/jonathandroth/staggered
+[staggeredefficient-stata-package]: https://github.com/jonathandroth/staggered_stata
+
+
+
 **What's Trending in Difference-in-Differences? A Synthesis of the Recent Econometrics Literature** (with Pedro Sant'Anna, Alyssa Bilinski, and John Poe). 2022.
 <br/>
 <small>[ <a href="#/" onclick="visib('did-review')">Abstract</a> | [Draft][did-review-draft] ] </small>
@@ -70,18 +84,6 @@ This paper proposes tools for robust inference for difference-in-differences and
 [hpt-package]: https://github.com/asheshrambachan/HonestDiD
 
 
-
-
-**Efficient Estimation for Staggered Rollout Designs** (with Pedro Sant'Anna). 2021.<br/>
-<small>[ <a href="#/" onclick="visib('staggeredefficient')">Abstract</a> | [Draft][staggeredefficient-arxiv] | [R package][staggeredefficient-package] | [Stata package][staggeredefficient-stata-package] ]</small>
-
-<div id="staggeredefficient" style="display: none; text-align: justify; line-height: 1.2" ><small>
-Researchers are often interested in the causal effect of treatments that are rolled out to different units at different points in time. This paper studies how to efficiently estimate a variety of causal parameters in such staggered rollout designs when treatment timing is (as-if) randomly assigned. We solve for the most efficient estimator in a class of estimators that nests two-way fixed effects models as well as several popular generalized difference-in-differences methods. The efficient estimator is not feasible in practice because it requires knowledge of the optimal weights to be placed on pre-treatment outcomes. However, the optimal weights can be estimated from the data, and in large datasets the plug-in estimator that uses the estimated weights has similar properties to the "oracle" efficient estimator. We illustrate the performance of the plug-in efficient estimator in simulations and in an application to Wood et al. (2020a)'s study of the staggered rollout of a procedural justice training program for police officers. We find that confidence intervals based on the plug-in efficient estimator have good coverage and can be as much as five times shorter than confidence intervals based on existing methods. As an empirical contribution of independent interest, our application provides the most precise estimates to date on the effectiveness of procedural justice training programs for police officers.
-</small><br><br/></div>
-
-[staggeredefficient-arxiv]: https://arxiv.org/pdf/2102.01291.pdf
-[staggeredefficient-package]: https://github.com/jonathandroth/staggered
-[staggeredefficient-stata-package]: https://github.com/jonathandroth/staggered_stata
 
 **When Is Parallel Trends Sensitive to Functional Form?** (with Pedro Sant'Anna). 2021.
 *Revision requested, Econometrica*
