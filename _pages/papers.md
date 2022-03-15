@@ -127,7 +127,7 @@ This paper studies teacher attrition in Wisconsin following Act 10, a policy cha
 
 **Pre-test with Caution: Event-study Estimates After Testing for Parallel Trends**. *Forthcoming, American Economic Review: Insights*
 <br/>
-<small>[ <a href="#/" onclick="visib('pretest')">Abstract</a> | [Paper][pretest-draft] | [Appendix][pretest-appendix] | [R package][pretrends-package] | [Shiny app][pretrends-shiny] | [Longer Version (old)][pretest-draft-longer]] </small>
+<small>[ <a href="#/" onclick="visib('pretest')">Abstract</a> | [Paper][pretest-draft] | [Appendix][pretest-appendix] | [R package][pretrends-package] | [Shiny app][pretrends-shiny] | [Longer Version (old)][pretest-draft-longer] | [Replication][codeocean-link] ] </small>
 
 <div id="pretest" style="display: none; text-align: justify; line-height: 1.2" ><small>
 This paper discusses two important limitations of the common practice of testing for pre-existing differences in trends (''pre-trends'') when using difference-in-differences and related methods. First, conventional pre-trends tests may have low power. Second, conditioning the analysis on the result of a pre-test can distort estimation and inference, potentially exacerbating the bias of point estimates and undercoverage of confidence intervals. I analyze these issues both in theory and in simulations calibrated to a survey of recent papers in leading economics journals, which suggest that these limitations are important in practice.  I conclude with practical recommendations for mitigating these issues.
@@ -138,7 +138,7 @@ This paper discusses two important limitations of the common practice of testing
 [pretest-draft-longer]:{{ site.baseurl }}{% link assets/files/roth_pretrends_testing_longer_version.pdf %}
 [pretrends-package]:https://github.com/jonathandroth/pretrends#pretrends
 [pretrends-shiny]:https://github.com/jonathandroth/PretrendsPower#pretrendspower
-
+[codeocean-link]: https://codeocean.com/capsule/9953973/tree/v1
 
 
 **Why Do Sectoral Employment Programs Work? Evidence from WorkAdvance** (with Lawrence F. Katz, Richard Hendra, and Kelsey Schaberg).  2021. *Forthcoming, Journal of Labor Economics (Alan Krueger Special Issue)*
