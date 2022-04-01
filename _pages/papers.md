@@ -15,6 +15,23 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 - - -
 
 
+**A More Credible Approach to Parallel Trends** 
+[Previously titled "An Honest Approach to Parallel Trends"] (with Ashesh Rambachan). 2022.
+*Revision requested, Review of Economic Studies*
+<br/>
+<small>[ <a href="#/" onclick="visib('hpt')">Abstract</a> | [Draft][1] | [JMP Version (old)][3] | [R package][hpt-package] ] </small>
+
+<div id="hpt" style="display: none; text-align: justify; line-height: 1.2" ><small>
+This paper proposes tools for robust inference in difference-in-differences and event-study designs where the parallel trends assumption may be violated. Instead of requiring that parallel trends holds exactly, we impose restrictions on how different the post-treatment violations of parallel trends can be from the pre-treatment differences in trends ("pre-trends"). The causal parameter of interest is partially identified under these restrictions. We introduce two approaches that guarantee uniformly valid inference under the imposed restrictions, and we derive novel results showing that they have desirable power properties in our context. We illustrate how economic knowledge can inform the restrictions on the possible violations of parallel trends in two economic applications. We also highlight how our approach can be used to conduct sensitivity analyses showing what causal conclusions can be drawn under various restrictions on the possible violations of the parallel trends assumption.
+</small><br><br/></div>
+
+[1]: {{ site.baseurl }}{% link assets/files/HonestParallelTrends_Main.pdf %}
+[2]: {{ site.baseurl }}{% link assets/files/HonestParallelTrends_Supp.pdf %}
+[3]: {{ site.baseurl }}{% link assets/files/roth_jmp_honestparalleltrends_main_jmp_version.pdf %}
+[hpt-package]: https://github.com/asheshrambachan/HonestDiD
+
+
+
 **Efficient Estimation for Staggered Rollout Designs** (with Pedro Sant'Anna). 2022.<br/>
 <small>[ <a href="#/" onclick="visib('staggeredefficient')">Abstract</a> | [Draft][staggeredefficient-arxiv] | [R package][staggeredefficient-package] | [Stata package][staggeredefficient-stata-package] ]</small>
 
@@ -65,23 +82,6 @@ This paper extends Becker (1957)'s outcome test of discrimination to settings wh
 
 [outcometest-draft]: https://arxiv.org/pdf/2111.07889.pdf
 
-
-
-
-
-**An Honest Approach to Parallel Trends** (with Ashesh Rambachan). 2021.
-*Revision requested, Review of Economic Studies*
-<br/>
-<small>[ <a href="#/" onclick="visib('hpt')">Abstract</a> | [Draft][1] | [JMP Version (old)][3] | [R package][hpt-package] ] </small>
-
-<div id="hpt" style="display: none; text-align: justify; line-height: 1.2" ><small>
-This paper proposes tools for robust inference for difference-in-differences and event-study designs. Instead of requiring that the parallel trends assumption holds exactly, we impose that pre-treatment violations of parallel trends (''pre-trends'') are informative about the possible post-treatment violations of parallel trends. Such restrictions allow us to formalize the intuition behind the common practice of testing for pre-existing trends while avoiding issues related to pre-testing. The causal effect of interest is partially identified under such restrictions. We introduce two approaches that guarantee uniformly valid (''honest'') inference under the imposed restrictions, and we derive novel results showing that they have good power properties in our context. We recommend that researchers conduct sensitivity analyses to show what conclusions can be drawn under various restrictions on the possible differences in trends.
-</small><br><br/></div>
-
-[1]: {{ site.baseurl }}{% link assets/files/HonestParallelTrends_Main.pdf %}
-[2]: {{ site.baseurl }}{% link assets/files/HonestParallelTrends_Supp.pdf %}
-[3]: {{ site.baseurl }}{% link assets/files/roth_jmp_honestparalleltrends_main_jmp_version.pdf %}
-[hpt-package]: https://github.com/asheshrambachan/HonestDiD
 
 
 
