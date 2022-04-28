@@ -141,7 +141,7 @@ This paper discusses two important limitations of the common practice of testing
 [codeocean-link]: https://codeocean.com/capsule/9953973/tree/v1
 
 
-**Why Do Sectoral Employment Programs Work? Evidence from WorkAdvance** (with Lawrence F. Katz, Richard Hendra, and Kelsey Schaberg).  2021. *Forthcoming, Journal of Labor Economics (Alan Krueger Special Issue)*
+**[Why Do Sectoral Employment Programs Work? Evidence from WorkAdvance](https://www.journals.uchicago.edu/doi/abs/10.1086/717932)** (with Lawrence F. Katz, Richard Hendra, and Kelsey Schaberg).  2022. *Journal of Labor Economics*
 <br/>
 <small>[ <a href="#/" onclick="visib('workadvance')">Abstract</a> | [Paper][workadvance-paper] ] </small>
 
@@ -151,7 +151,7 @@ This paper examines the evidence from randomized evaluations of sector-focused t
 
 [workadvance-paper]:{{ site.baseurl }}{% link assets/files/krhs_sectoral_jole_final.pdf %}
 
-**Bias In, Bias Out? Evaluating the Folk Wisdom** (with Ashesh Rambachan). 2020. 1st Symposium on the Foundations of Responsible Computing (FORC 2020), LIPIcs, 156, Pp. 6:1-6:15.
+**[Bias In, Bias Out? Evaluating the Folk Wisdom](https://drops.dagstuhl.de/opus/volltexte/2020/12022/pdf/LIPIcs-FORC-2020-6.pdf)** (with Ashesh Rambachan). 2020. 1st Symposium on the Foundations of Responsible Computing (FORC 2020), LIPIcs, 156, Pp. 6:1-6:15.
 <br/>
 <small>[ <a href="#/" onclick="visib('biasinbiasout')">Abstract</a> | [Paper][biasinbiasout-draft] ] </small>
 
@@ -159,7 +159,7 @@ This paper examines the evidence from randomized evaluations of sector-focused t
 We evaluate the folk wisdom that algorithmic decision rules trained on data produced by biased human decision-makers necessarily reflect this bias. We consider a setting where training labels are only generated if a biased decision-maker takes a particular action, and so "biased" training data arise due to discriminatory selection into the training data. In our baseline model, the more biased the decision-maker is against a group, the more the algorithmic decision rule favors that group. We refer to this phenomenon as bias reversal. We then clarify the conditions that give rise to bias reversal. Whether a prediction algorithm reverses or inherits bias depends critically on how the decision-maker affects the training data as well as the label used in training. We illustrate our main theoretical results in a simulation study applied to the New York City Stop, Question and Frisk dataset.
 </small><br><br/></div>
 
-[biasinbiasout-draft]:https://drops.dagstuhl.de/opus/volltexte/2020/12022/pdf/LIPIcs-FORC-2020-6.pdf
+[biasinbiasout-draft]:{{ site.baseurl }}{% link assets/files/bias-in-bias-out-final.pdf %}
 
 
 # <center> Comments </center>
