@@ -15,6 +15,16 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 - - -
 
 
+**Design-Based Uncertainty for Quasi-Experiments** (with Ashesh Rambachan). 2022.<br/>
+<small>[ <a href="#/" onclick="visib('design-based')">Abstract</a> | [Draft][design-based-arxiv] ] </small>
+
+<div id="design-based" style="display: none; text-align: justify; line-height: 1.2" ><small>
+Social scientists are often interested in estimating causal effects in settings where all units in the population are observed (e.g. all 50 US states). Design-based approaches to uncertainty, which view the realization of treatment assignments as the source of randomness, may be more appealing than standard sampling-based approaches in such contexts. This paper develops a design-based theory of uncertainty that is suitable for analyzing difference-in-differences (DiD) and instrumental variables (IV) estimators, which are typically employed in settings where completely random assignment of treatment is implausible. We consider a model where treatment status is stochastic but the probability of receiving treatment can vary arbitrarily across units. As a building block, we first show that the simple difference-in-means (SDIM) estimator is unbiased for a design-based analog of the average treatment effect on treated (ATT) under a design-based analog to mean-independence of treatment and untreated potential outcomes. We further show that the usual standard errors for the SDIM are valid but potentially conservative, even under constant treatment effects. Our results imply that the DiD estimator is unbiased and clustered standard errors are valid (but potentially conservative) under a design-based analog to parallel trends. Likewise, the IV estimator is consistent, and its standard errors are asymptotically valid, for a re-weighted local average treatment effect (LATE) under orthogonality conditions that are weaker than complete random assignment of the instrument.
+</small><br><br/></div>
+
+[design-based-arxiv]: https://arxiv.org/pdf/2008.00602.pdf
+
+
 **A More Credible Approach to Parallel Trends** 
 [Previously titled "An Honest Approach to Parallel Trends"] (with Ashesh Rambachan). 2022.
 *Revision requested, Review of Economic Studies*
@@ -97,16 +107,6 @@ This paper assesses when the validity of difference-in-differences and related e
 [pt-arxiv]:{{ site.baseurl }}{% link assets/files/2010.04814.pdf %}
 [pt-arxiv-v1]:{{ site.baseurl }}{% link assets/files/2010.04814_v1.pdf %}
 
-
-
-**Design-Based Uncertainty for Quasi-Experiments** (with Ashesh Rambachan). 2020.<br/>
-<small>[ <a href="#/" onclick="visib('design-based')">Abstract</a> | [Draft][design-based-arxiv] ] </small>
-
-<div id="design-based" style="display: none; text-align: justify; line-height: 1.2" ><small>
-Social scientists are often interested in estimating causal effects in settings where all units in the population are observed (e.g. all 50 US states). Design-based approaches, which view the realization of treatment assignments as the source of randomness, may be more appealing than standard sampling-based approaches in such contexts. This paper develops a design-based theory of uncertainty suitable for quasi-experimental settings, in which the researcher estimates the treatment effect as if treatment were randomly assigned, but in reality treatment probabilities may depend in unknown ways on the potential outcomes. We first study the properties of the simple difference-in-means (SDIM) estimator. The SDIM is unbiased for a finite-population design-based analog to the average treatment effect on the treated (ATT) if treatment probabilities are uncorrelated with the potential outcomes in a finite population sense. We further derive expressions for the variance of the SDIM estimator and a central limit theorem under sequences of finite populations with growing sample size. We then show how our results can be applied to analyze the distribution and estimand of difference-in-differences (DiD) and two-stage least squares (2SLS) from a design-based perspective when treatment is not completely randomly assigned.
-</small><br><br/></div>
-
-[design-based-arxiv]: https://arxiv.org/pdf/2008.00602v2.pdf
 
 
 
