@@ -82,17 +82,6 @@ We show that moment inequalities in a wide variety of economic applications have
 
 
 
-**An Outcome Test of Discrimination for Ranked Lists** (with Guillaume Saint-Jacques and YinYin Yu). 2021.
-<br/>
-<small>[ <a href="#/" onclick="visib('outcometest')">Abstract</a> | [Draft][outcometest-draft] ] </small>
-
-<div id="outcometest" style="display: none; text-align: justify; line-height: 1.2" ><small>
-This paper extends Becker (1957)'s outcome test of discrimination to settings where a (human or algorithmic) decision-maker produces a ranked list of candidates. Ranked lists are particularly relevant in the context of online platforms that produce search results or feeds, and also arise when human decisionmakers express ordinal preferences over a list of candidates. We show that non-discrimination implies a system of moment inequalities, which intuitively impose that one cannot permute the position of a lower-ranked candidate from one group with a higher-ranked candidate from a second group and systematically improve the objective. Moreover, we show that that these moment inequalities are the \textit{only} testable implications of non-discrimination when the auditor observes only outcomes and group membership by rank. We show how to statistically test the implied inequalities, and validate our approach in an application using data from LinkedIn.
-</small><br><br/></div>
-
-[outcometest-draft]: https://arxiv.org/pdf/2111.07889.pdf
-
-
 
 
 **When Is Parallel Trends Sensitive to Functional Form?** (with Pedro Sant'Anna). 2021.
@@ -141,6 +130,18 @@ This paper discusses two important limitations of the common practice of testing
 [codeocean-link]: https://codeocean.com/capsule/9953973/tree/v1
 
 
+**[An Outcome Test of Discrimination for Ranked Lists](https://dl.acm.org/doi/10.1145/3531146.3533102)** (with Guillaume Saint-Jacques and YinYin Yu). 2022. *2022 ACM Conference on Fairness, Accountability, and Transparency (FAccT 2022)*
+<br/>
+<small>[ <a href="#/" onclick="visib('outcometest')">Abstract</a> | [Paper][outcometest-draft] ] </small>
+
+<div id="outcometest" style="display: none; text-align: justify; line-height: 1.2" ><small>
+This paper extends Becker (1957)'s outcome test of discrimination to settings where a (human or algorithmic) decision-maker produces a ranked list of candidates. Ranked lists are particularly relevant in the context of online platforms that produce search results or feeds, and also arise when human decisionmakers express ordinal preferences over a list of candidates. We show that non-discrimination implies a system of moment inequalities, which intuitively impose that one cannot permute the position of a lower-ranked candidate from one group with a higher-ranked candidate from a second group and systematically improve the objective. Moreover, we show that that these moment inequalities are the \textit{only} testable implications of non-discrimination when the auditor observes only outcomes and group membership by rank. We show how to statistically test the implied inequalities, and validate our approach in an application using data from LinkedIn.
+</small><br><br/></div>
+
+[outcometest-draft]: https://dl.acm.org/doi/pdf/10.1145/3531146.3533102
+
+
+
 **[Why Do Sectoral Employment Programs Work? Evidence from WorkAdvance](https://www.journals.uchicago.edu/doi/abs/10.1086/717932)** (with Lawrence F. Katz, Richard Hendra, and Kelsey Schaberg).  2022. *Journal of Labor Economics*
 <br/>
 <small>[ <a href="#/" onclick="visib('workadvance')">Abstract</a> | [Paper][workadvance-paper] ] </small>
@@ -151,7 +152,7 @@ This paper examines the evidence from randomized evaluations of sector-focused t
 
 [workadvance-paper]:{{ site.baseurl }}{% link assets/files/krhs_sectoral_jole_final.pdf %}
 
-**[Bias In, Bias Out? Evaluating the Folk Wisdom](https://drops.dagstuhl.de/opus/volltexte/2020/12022/pdf/LIPIcs-FORC-2020-6.pdf)** (with Ashesh Rambachan). 2020. 1st Symposium on the Foundations of Responsible Computing (FORC 2020), LIPIcs, 156, Pp. 6:1-6:15.
+**[Bias In, Bias Out? Evaluating the Folk Wisdom](https://drops.dagstuhl.de/opus/volltexte/2020/12022/pdf/LIPIcs-FORC-2020-6.pdf)** (with Ashesh Rambachan). 2020. *1st Symposium on the Foundations of Responsible Computing (FORC 2020)*.
 <br/>
 <small>[ <a href="#/" onclick="visib('biasinbiasout')">Abstract</a> | [Paper][biasinbiasout-draft] ] </small>
 
