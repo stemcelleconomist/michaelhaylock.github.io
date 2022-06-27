@@ -55,7 +55,7 @@ This paper studies efficient estimation of causal effects when treatment is (qua
 
 
 
-**What's Trending in Difference-in-Differences? A Synthesis of the Recent Econometrics Literature** (with Pedro Sant'Anna, Alyssa Bilinski, and John Poe). 2022.
+**What's Trending in Difference-in-Differences? A Synthesis of the Recent Econometrics Literature** (with Pedro Sant'Anna, Alyssa Bilinski, and John Poe). 2022. *Conditionally accepted, Journal of Econometrics*
 <br/>
 <small>[ <a href="#/" onclick="visib('did-review')">Abstract</a> | [Draft][did-review-draft] ] </small>
 
@@ -152,7 +152,7 @@ This paper examines the evidence from randomized evaluations of sector-focused t
 
 [workadvance-paper]:{{ site.baseurl }}{% link assets/files/krhs_sectoral_jole_final.pdf %}
 
-**[Bias In, Bias Out? Evaluating the Folk Wisdom](https://drops.dagstuhl.de/opus/volltexte/2020/12022/pdf/LIPIcs-FORC-2020-6.pdf)** (with Ashesh Rambachan). 2020. *1st Symposium on the Foundations of Responsible Computing (FORC 2020)*.
+**[Bias In, Bias Out? Evaluating the Folk Wisdom](https://drops.dagstuhl.de/opus/volltexte/2020/12022/pdf/LIPIcs-FORC-2020-6.pdf)** (with Ashesh Rambachan). 2020. *1st Symposium on the Foundations of Responsible Computing (FORC 2020)*
 <br/>
 <small>[ <a href="#/" onclick="visib('biasinbiasout')">Abstract</a> | [Paper][biasinbiasout-draft] ] </small>
 
