@@ -27,7 +27,7 @@ Social scientists are often interested in estimating causal effects in settings 
 
 **A More Credible Approach to Parallel Trends** 
 [Previously titled "An Honest Approach to Parallel Trends"] (with Ashesh Rambachan). 2022.
-*Revision requested, Review of Economic Studies*
+*Conditionally accepted, Review of Economic Studies*
 <br/>
 <small>[ <a href="#/" onclick="visib('hpt')">Abstract</a> | [Draft][1] | [JMP Version (old)][3] | [R package][hpt-package] ] </small>
 
