@@ -66,7 +66,7 @@ This paper synthesizes recent advances in the econometrics of difference-in-diff
 [did-review-draft]:{{ site.baseurl }}{% link assets/files/DiD_Review_Paper.pdf %}
 
 
-**Inference for Linear Conditional Moment Inequalities** (with Isaiah Andrews and Ariel Pakes). 2021.
+**Inference for Linear Conditional Moment Inequalities** (with Isaiah Andrews and Ariel Pakes). 2022.
 *Revision requested, Review of Economic Studies*
 <br/>
 <small>[ <a href="#/" onclick="visib('arp')">Abstract</a> | [Draft][arp-draft] |  [Previous version (draft) ][arp-draft-v1] | [Previous version (supplement)][arp-supp-v1] | [Matlab package][arp-code]    ] </small>
