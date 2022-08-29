@@ -67,9 +67,9 @@ This paper synthesizes recent advances in the econometrics of difference-in-diff
 
 
 **Inference for Linear Conditional Moment Inequalities** (with Isaiah Andrews and Ariel Pakes). 2022.
-*Revision requested, Review of Economic Studies*
+*Conditionally accepted, Review of Economic Studies*
 <br/>
-<small>[ <a href="#/" onclick="visib('arp')">Abstract</a> | [Draft][arp-draft] |  [Previous version (draft) ][arp-draft-v1] | [Previous version (supplement)][arp-supp-v1] | [Matlab package][arp-code]    ] </small>
+<small>[ <a href="#/" onclick="visib('arp')">Abstract</a> | [Draft][arp-draft] |  [Previous version][arp-arxiv-v1] | [Matlab package][arp-code]    ] </small>
 
 <div id="arp" style="display: none; text-align: justify; line-height: 1.2" ><small>
 We show that moment inequalities in a wide variety of economic applications have a particular linear conditional structure. We use this structure to construct uniformly valid confidence sets that remain computationally tractable even in settings with nuisance parameters. We first introduce least favorable critical values which deliver non-conservative tests if all moments are binding. Next, we introduce a novel conditional inference approach which ensures a strong form of insensitivity to slack moments. Our recommended approach is a hybrid technique which combines desirable aspects of the least favorable and conditional methods. The hybrid approach performs well in simulations calibrated to Wollmann (2018), with favorable power and computational time comparisons relative to existing alternatives.
@@ -79,7 +79,7 @@ We show that moment inequalities in a wide variety of economic applications have
 [arp-draft-v1]:{{ site.baseurl }}{% link assets/files/arp-draft-v1.pdf %}
 [arp-supp-v1]:{{ site.baseurl }}{% link assets/files/arp-supp-v1.pdf %}
 [arp-code]: https://github.com/jonathandroth/LinearMomentInequalities
-
+[arp-arxiv-v1]: https://arxiv.org/pdf/1909.10062v1.pdf
 
 
 
