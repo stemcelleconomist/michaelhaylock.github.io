@@ -114,7 +114,7 @@ This paper studies teacher attrition in Wisconsin following Act 10, a policy cha
 # <center> Published and Forthcoming Papers </center>
 - - -
 
-**Pre-test with Caution: Event-study Estimates After Testing for Parallel Trends**. *Forthcoming, American Economic Review: Insights*
+**[Pre-test with Caution: Event-study Estimates After Testing for Parallel Trends](https://pubs.aeaweb.org/doi/pdfplus/10.1257/aeri.20210236)**. 2022. *American Economic Review: Insights*
 <br/>
 <small>[ <a href="#/" onclick="visib('pretest')">Abstract</a> | [Paper][pretest-draft] | [Appendix][pretest-appendix] | [R package][pretrends-package] | [Shiny app][pretrends-shiny] | [Longer Version (old)][pretest-draft-longer] | [Replication][codeocean-link] ] </small>
 
