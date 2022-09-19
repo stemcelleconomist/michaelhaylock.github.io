@@ -66,8 +66,22 @@ This paper synthesizes recent advances in the econometrics of difference-in-diff
 [did-review-draft]:{{ site.baseurl }}{% link assets/files/DiD_Review_Paper.pdf %}
 
 
+**Union Reform and Teacher Turnover: Evidence from Wisconsin's Act 10**. 2019.
+<br/>
+<small>[ <a href="#/" onclick="visib('act10')">Abstract</a> | [Draft][act10-draft] ] </small>
+
+<div id="act10" style="display: none; text-align: justify; line-height: 1.2" ><small>
+This paper studies teacher attrition in Wisconsin following Act 10, a policy change which severely weakened teachers’ unions and capped wage growth for teachers. I document a sharp short-run increase in teacher turnover after the Act was passed, driven almost entirely by teachers over the minimum retirement age of 55, whose turnover rate doubled from 17 to 35 percent. Such teachers faced strong incentives to retire before the end of pre-existing collective bargaining agreements in order to secure collectively-bargained retirement benefits (e.g. healthcare), which no longer fell under the scope of collective bargaining after the Act. I find much more modest long-run increases in teacher turnover, consistent with previous estimates of labor supply elasticities. I then attempt to evaluate the effect of the wave of retirements following Act 10 on education quality using grade-level value-added metrics. I find suggestive evidence that student academic performance increased in grades with teachers who retired following the reform, and I obtain similar results when instrumenting for retirement using the pre-existing age distribution of teachers. Differences in value-added between retirees and their replacements can potentially explain some, but not all, of the observed academic improvements.
+</small><br><br/></div>
+
+[act10-draft]:{{ site.baseurl }}{% link assets/files/roth_act10.pdf %}
+
+
+# <center> Published and Forthcoming Papers </center>
+- - -
+
 **Inference for Linear Conditional Moment Inequalities** (with Isaiah Andrews and Ariel Pakes). 2022.
-*Conditionally accepted, Review of Economic Studies*
+*Forthcoming, Review of Economic Studies*
 <br/>
 <small>[ <a href="#/" onclick="visib('arp')">Abstract</a> | [Draft][arp-draft] |  [Previous version][arp-arxiv-v1] | [Matlab package][arp-code]    ] </small>
 
@@ -85,34 +99,18 @@ We show that moment inequalities in a wide variety of economic applications have
 
 
 **When Is Parallel Trends Sensitive to Functional Form?** (with Pedro Sant'Anna). 2021.
-*Revision requested, Econometrica*
+*Forthcoming, Econometrica*
 <br/>
 <small>[ <a href="#/" onclick="visib('ptinvariance')">Abstract</a> | [Draft][pt-arxiv] | [Initial version (old)][pt-arxiv-v1] ] </small>
 
 <div id="ptinvariance" style="display: none; text-align: justify; line-height: 1.2" ><small>
-This paper assesses when the validity of difference-in-differences and related estimators depends on functional form. We provide a novel characterization: the parallel trends assumption holds under all strictly monotonic transformations of the outcome if and only if a stronger "parallel trends"-type condition holds for the cumulative distribution function of untreated potential outcomes. This condition for parallel trends to be insensitive to functional form is satisfied if and essentially only if the population can be partitioned into a subgroup for which treatment is effectively randomly assigned and a remaining subgroup for which the distribution of untreated potential outcomes is stable over time. We introduce falsification tests for the insensitivity of parallel trends to functional form. We also show that it is impossible to construct any estimator that is consistent for the average treatment effect on the treated (ATT) without either imposing functional form restrictions or imposing assumptions that identify the full distribution of untreated potential outcomes. Our results suggest that researchers who wish to point-identify the ATT should either (i) argue treatment is as-if randomly assigned, (ii) provide a method for inferring the full counterfactual distribution for the treated group, or (iii) justify the validity of the specific chosen functional form.
+This paper assesses when the validity of difference-in-differences depends on functional form. We provide a novel characterization: the parallel trends assumption holds under all strictly monotonic transformations of the outcome if and only if a stronger "parallel trends"-type condition holds for the cumulative distribution function of untreated potential outcomes. This condition for parallel trends to be insensitive to functional form is satisfied if and essentially only if the population can be partitioned into a subgroup for which treatment is effectively randomly assigned and a remaining subgroup for which the distribution of untreated potential outcomes is stable over time. These conditions have testable implications, and we introduce falsification tests for the null that parallel trends is insensitive to functional form.
 </small><br><br/></div>
 
 [pt-arxiv]:{{ site.baseurl }}{% link assets/files/2010.04814.pdf %}
 [pt-arxiv-v1]:{{ site.baseurl }}{% link assets/files/2010.04814_v1.pdf %}
 
 
-
-
-
-**Union Reform and Teacher Turnover: Evidence from Wisconsin's Act 10**. 2019.
-<br/>
-<small>[ <a href="#/" onclick="visib('act10')">Abstract</a> | [Draft][act10-draft] ] </small>
-
-<div id="act10" style="display: none; text-align: justify; line-height: 1.2" ><small>
-This paper studies teacher attrition in Wisconsin following Act 10, a policy change which severely weakened teachers’ unions and capped wage growth for teachers. I document a sharp short-run increase in teacher turnover after the Act was passed, driven almost entirely by teachers over the minimum retirement age of 55, whose turnover rate doubled from 17 to 35 percent. Such teachers faced strong incentives to retire before the end of pre-existing collective bargaining agreements in order to secure collectively-bargained retirement benefits (e.g. healthcare), which no longer fell under the scope of collective bargaining after the Act. I find much more modest long-run increases in teacher turnover, consistent with previous estimates of labor supply elasticities. I then attempt to evaluate the effect of the wave of retirements following Act 10 on education quality using grade-level value-added metrics. I find suggestive evidence that student academic performance increased in grades with teachers who retired following the reform, and I obtain similar results when instrumenting for retirement using the pre-existing age distribution of teachers. Differences in value-added between retirees and their replacements can potentially explain some, but not all, of the observed academic improvements.
-</small><br><br/></div>
-
-[act10-draft]:{{ site.baseurl }}{% link assets/files/roth_act10.pdf %}
-
-
-# <center> Published and Forthcoming Papers </center>
-- - -
 
 **[Pre-test with Caution: Event-study Estimates After Testing for Parallel Trends](https://pubs.aeaweb.org/doi/pdfplus/10.1257/aeri.20210236)**. 2022. *American Economic Review: Insights*
 <br/>
