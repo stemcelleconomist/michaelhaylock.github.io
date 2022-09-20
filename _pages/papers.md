@@ -98,7 +98,7 @@ We show that moment inequalities in a wide variety of economic applications have
 
 
 
-**When Is Parallel Trends Sensitive to Functional Form?** (with Pedro Sant'Anna). 2021.
+**When Is Parallel Trends Sensitive to Functional Form?** (with Pedro Sant'Anna). 2022.
 *Forthcoming, Econometrica*
 <br/>
 <small>[ <a href="#/" onclick="visib('ptinvariance')">Abstract</a> | [Draft][pt-arxiv] | [Initial version (old)][pt-arxiv-v1] ] </small>
