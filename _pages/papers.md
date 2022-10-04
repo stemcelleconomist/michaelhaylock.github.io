@@ -42,7 +42,9 @@ This paper proposes tools for robust inference in difference-in-differences and 
 
 
 
-**Efficient Estimation for Staggered Rollout Designs** (with Pedro Sant'Anna). 2022.<br/>
+**Efficient Estimation for Staggered Rollout Designs** (with Pedro Sant'Anna). 2022.
+*Revision requested, Journal of Political Economy Microeconomics*
+<br/>
 <small>[ <a href="#/" onclick="visib('staggeredefficient')">Abstract</a> | [Draft][staggeredefficient-arxiv] | [R package][staggeredefficient-package] | [Stata package][staggeredefficient-stata-package] ]</small>
 
 <div id="staggeredefficient" style="display: none; text-align: justify; line-height: 1.2" ><small>
