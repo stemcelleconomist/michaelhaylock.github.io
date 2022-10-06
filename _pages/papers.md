@@ -25,22 +25,6 @@ Conventional standard errors reflect the fact that the observed data is sampled 
 [design-based-arxiv]: https://arxiv.org/pdf/2008.00602.pdf
 
 
-**A More Credible Approach to Parallel Trends** 
-[Previously titled "An Honest Approach to Parallel Trends"] (with Ashesh Rambachan). 2022.
-*Conditionally accepted, Review of Economic Studies*
-<br/>
-<small>[ <a href="#/" onclick="visib('hpt')">Abstract</a> | [Draft][1] | [JMP Version (old)][3] | [R package][hpt-package] ] </small>
-
-<div id="hpt" style="display: none; text-align: justify; line-height: 1.2" ><small>
-This paper proposes tools for robust inference in difference-in-differences and event-study designs where the parallel trends assumption may be violated. Instead of requiring that parallel trends holds exactly, we impose restrictions on how different the post-treatment violations of parallel trends can be from the pre-treatment differences in trends ("pre-trends"). The causal parameter of interest is partially identified under these restrictions. We introduce two approaches that guarantee uniformly valid inference under the imposed restrictions, and we derive novel results showing that they have desirable power properties in our context. We illustrate how economic knowledge can inform the restrictions on the possible violations of parallel trends in two economic applications. We also highlight how our approach can be used to conduct sensitivity analyses showing what causal conclusions can be drawn under various restrictions on the possible violations of the parallel trends assumption.
-</small><br><br/></div>
-
-[1]: {{ site.baseurl }}{% link assets/files/HonestParallelTrends_Main.pdf %}
-[2]: {{ site.baseurl }}{% link assets/files/HonestParallelTrends_Supp.pdf %}
-[3]: {{ site.baseurl }}{% link assets/files/roth_jmp_honestparalleltrends_main_jmp_version.pdf %}
-[hpt-package]: https://github.com/asheshrambachan/HonestDiD
-
-
 
 **Efficient Estimation for Staggered Rollout Designs** (with Pedro Sant'Anna). 2022.
 *Revision requested, Journal of Political Economy Microeconomics*
@@ -81,6 +65,23 @@ This paper studies teacher attrition in Wisconsin following Act 10, a policy cha
 
 # <center> Published and Forthcoming Papers </center>
 - - -
+
+**A More Credible Approach to Parallel Trends** 
+[Previously titled "An Honest Approach to Parallel Trends"] (with Ashesh Rambachan). 2022.
+*Forthcoming, Review of Economic Studies*
+<br/>
+<small>[ <a href="#/" onclick="visib('hpt')">Abstract</a> | [Draft][1] | [JMP Version (old)][3] | [R package][hpt-package] ] </small>
+
+<div id="hpt" style="display: none; text-align: justify; line-height: 1.2" ><small>
+This paper proposes tools for robust inference in difference-in-differences and event-study designs where the parallel trends assumption may be violated. Instead of requiring that parallel trends holds exactly, we impose restrictions on how different the post-treatment violations of parallel trends can be from the pre-treatment differences in trends ("pre-trends"). The causal parameter of interest is partially identified under these restrictions. We introduce two approaches that guarantee uniformly valid inference under the imposed restrictions, and we derive novel results showing that they have desirable power properties in our context. We illustrate how economic knowledge can inform the restrictions on the possible violations of parallel trends in two economic applications. We also highlight how our approach can be used to conduct sensitivity analyses showing what causal conclusions can be drawn under various restrictions on the possible violations of the parallel trends assumption.
+</small><br><br/></div>
+
+[1]: {{ site.baseurl }}{% link assets/files/HonestParallelTrends_Main.pdf %}
+[2]: {{ site.baseurl }}{% link assets/files/HonestParallelTrends_Supp.pdf %}
+[3]: {{ site.baseurl }}{% link assets/files/roth_jmp_honestparalleltrends_main_jmp_version.pdf %}
+[hpt-package]: https://github.com/asheshrambachan/HonestDiD
+
+
 
 **Inference for Linear Conditional Moment Inequalities** (with Isaiah Andrews and Ariel Pakes). 2022.
 *Forthcoming, Review of Economic Studies*
