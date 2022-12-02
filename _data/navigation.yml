@@ -4,17 +4,7 @@ main:
     url: /
 
   - title: "CV"
-    url: /assets/files/Roth_Jonathan_CV.pdf
+    url: /assets/files/Haylock_CV.pdf
 
   - title: "Papers"
     url: /papers/
-        
-
-  - title: "Immigrant Doctors Project"
-    url: /immigrant-docs/
-
-  - title: "Poppy"
-    url: /poppy/
-
-  - title: "Office Hours"
-    url: /OfficeHours/
