@@ -33,8 +33,6 @@ The unavailability of potential stem cell donors poses a critical challenge for 
 Using representative employer-employee panel data of German firms, we show that differences in supervisors' people skills, as well as workforce trust, social preferences, and personality traits explain firm-level differences in helping and antisocial behavior in the workplace. Our measures are derived from established survey constructs and include preference items that have been behaviorally validated in experimental games by prior research. Together, the results corroborate the importance of both leadership quality and workforce composition for the manifestation of helpful and hostile workplace cultures.
 </small><br><br/></div>
 
-# [helping-workingpaper]: 
-
 **Getting up to speed: Informing prior and prospective blood donors about supply uncertainty and hygiene measures during the COVID-19 lockdown** (with Stefanie Ehmann and Anne Heynold). 2022.
 *Submitted*
 <br/>
