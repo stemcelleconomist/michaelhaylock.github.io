@@ -16,7 +16,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 
 **Improving the Availability of Unrelated Stem Cell Donors: Evidence from a Major Donor Registry** (with Patrick Kampkötter, Mario Macis, Jürgen Sauter, Susanne Seitz, Robert Slonim, Daniel Wiesen & Alexander H. Schmidt ). 2022.<br/>
-<small>[ <a href="#/" onclick="visib('stemcell')">Abstract</a> | [Draft][stemcell-workingpaper] ] </small>
+<small>[[Draft][stemcell-workingpaper] ] </small>
 
 <div id="stemcell" style="display: none; text-align: justify; line-height: 1.2" ><small>
 The unavailability of potential stem cell donors poses a critical challenge for donor registries worldwide. This study investigates the impact of initiatives of a stem cell donor registry to enhance donors' availability for confirmatory typing. Initiatives ask donors to provide a sample for genetic analysis and/or information on their temporal unavailability. We analyzed 91,479 confirmatory typing requests from DKMS Germany, a large stem cell donor registry, exploiting a quasi-random initiative assignment based on observable characteristics. We find that, first, invitation to the initiatives increases donors' availability. Intention-to-treat estimates yield effects ranging from 2.5 to 3.2 percentage points, and local average treatment effects estimates range from 3.8 to 8.2 percentage points (baseline: 77.1%). Second, the difference in availability between participants and non-participants is over 10 percentage points. The initiatives yield a direct positive effect on donor availability and a selection effect through which participation signals a higher commitment. 
