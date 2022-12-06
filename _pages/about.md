@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Jonathan Roth"
+title: "Michael Haylock"
 excerpt: ""
 author_profile: true
 redirect_from: 
@@ -8,8 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-I am an assistant professor in the economics department at Brown University.
+I am a postdoctoral researcher in the economics department at the Chair of Health Economics, which is part of CINCH at the University of Duisburg-Essen.
 
-My primary research interests are in econometrics, with a focus on causal inference. I have also worked on topics in labor economics, machine learning, and algorithmic fairness.
+My primary research interests are in health economics, with a focus on stem-cell donation. I have also worked on topics in organizational economics.
 
-I was previously a senior researcher in the Office of the Chief Economist at Microsoft. I received my PhD in economics in 2020 from Harvard, where I was awarded the David A. Wells prize for best dissertation. I obtained a BA *summa cum laude* in mathematics and economics from the University of Pennsylvania. 
+I received my PhD in economics in 2022 from the University of Tübingen, where I received a best paper award for my single-author paper. I did my B.A. in philosophy and economics at the University of Bayreuth. 
