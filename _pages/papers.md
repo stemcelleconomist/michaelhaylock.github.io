@@ -20,7 +20,6 @@ The unavailability of potential stem cell donors poses a critical challenge for 
 [stemcell-workingpaper]: https://www.nber.org/system/files/working_papers/w29857/w29857.pdf
 
 
-
 **Helping and Antisocial Behavior in the Workplace** (with Patrick Kampkötter, Michael Kosfeld, and Ferdinand von Siemens). 2022.
 *Working paper coming soon*
 <br/>
